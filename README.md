@@ -9,4 +9,5 @@ s3 buckets <img width="960" height="460" alt="{A5F44E10-9EB2-47C8-B1CC-A727E2922
 dynamodb  <img width="960" height="410" alt="{F2D08775-CC06-4C91-999F-4FF516D611EE}" src="https://github.com/user-attachments/assets/05516f05-021d-4f18-ace2-8a90eb0e47bf" />
 
 structure of the code  <img width="960" height="507" alt="{A7963E3C-4E66-4F66-835E-A798FE2F63E9}" src="https://github.com/user-attachments/assets/64d02070-61bb-46ea-8e73-81208ef51917" />
+load balancers <img width="960" height="441" alt="{495ECBD6-4BC1-49C0-91B8-B4C6E4864FF4}" src="https://github.com/user-attachments/assets/44924b4a-29b3-4436-838b-133c8e116b75" />
 
